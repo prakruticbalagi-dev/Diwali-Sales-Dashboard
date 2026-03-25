@@ -80,7 +80,7 @@ o	Donut Chart (Amount of age group,orders by category, Amount by Gender )
 
 o	Treemap(Amount Occupation)
 
-o	Filters (Slicers):
+•	Filters (Slicers):
 
 o	Central
 
@@ -91,6 +91,7 @@ o	Northern
 o	Southern
 
 o	Western
+
 ________________________________________
 
 Key Insights
